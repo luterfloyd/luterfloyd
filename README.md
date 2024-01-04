@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luterfloyd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, mi nombre es Eleazar Garcia, tambien conocido por mi alias Luter Floyd
+- 👀 Estoy interesado en el desarrollo de aplicaciones tanto de escritorio como front-end
+- 🌱 Actualmente estoy incursionando en python y c#
+- 💞️ Estoy dispuesto a colaborar en proyectos relacionados con SQL y python
+- 📫 email: luter@gmail.com
 
 <!---
 luterfloyd/luterfloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
