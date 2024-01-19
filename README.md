@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en el desarrollo de aplicaciones tanto de escritorio como front-end
 - 🌱 Actualmente estoy incursionando en python y c#
 - 💞️ Estoy dispuesto a colaborar en proyectos relacionados con SQL y python
-- 📫 email: luter@gmail.com
+- 📫 email: luter1970@gmail.com
 
 <!---
 luterfloyd/luterfloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
